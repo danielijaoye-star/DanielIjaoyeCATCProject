@@ -1,0 +1,171 @@
+========================================
+ SYSTEM INFORMATION SCRIPT OUTPUT
+ Generated on: Wed Jan 14 01:52:05 UTC 2026
+========================================
+
+----- DATE -----
+Wed Jan 14 01:52:05 UTC 2026
+
+----- HOSTNAME -----
+DanielIjaoyeCATC
+
+----- ARCHITECTURE -----
+x86_64
+
+----- UNAME (FULL SYSTEM INFO) -----
+Linux DanielIjaoyeCATC 6.14.0-1017-azure #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+
+----- SYSTEM UPTIME -----
+ 01:52:05 up  1:05,  1 user,  load average: 0.00, 0.00, 0.00
+
+----- CURRENT USER -----
+danielijaoye
+
+----- LOGGED-IN USERS (who) -----
+danielijaoye pts/0        2026-01-14 01:03 (217.183.112.112)
+
+----- USER ACTIVITY (w) -----
+ 01:52:05 up  1:05,  1 user,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
+danielij          217.183.112.112  01:03   15:14   0.00s  0.01s sshd: danielijaoye [priv]
+
+----- TOP PROCESSES (top - first 10 lines) -----
+top - 01:52:05 up  1:05,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 134 total,   1 running, 133 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7893.2 total,   6938.5 free,    582.2 used,    623.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   7311.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   22876  13952   9476 S   0.0   0.2   0:04.54 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.01 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+----- COMMAND HISTORY -----
+
+=========== END OF REPORT ===========
+
+========================================
+ SYSTEM INFORMATION SCRIPT OUTPUT
+ Generated on: Wed Jan 14 02:02:08 UTC 2026
+========================================
+
+----- DATE -----
+Wed Jan 14 02:02:08 UTC 2026
+
+----- HOSTNAME -----
+DanielIjaoyeCATC
+
+----- ARCHITECTURE -----
+x86_64
+
+----- UNAME (FULL SYSTEM INFO) -----
+Linux DanielIjaoyeCATC 6.14.0-1017-azure #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+
+----- SYSTEM UPTIME -----
+ 02:02:08 up  1:15,  1 user,  load average: 0.00, 0.00, 0.00
+
+----- CURRENT USER -----
+danielijaoye
+
+----- LOGGED-IN USERS (who) -----
+danielijaoye pts/0        2026-01-14 01:03 (217.183.112.112)
+
+----- USER ACTIVITY (w) -----
+ 02:02:08 up  1:15,  1 user,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
+danielij          217.183.112.112  01:03   25:17   0.00s  0.01s sshd: danielijaoye [priv]
+
+----- TOP PROCESSES (top - first 10 lines) -----
+top - 02:02:09 up  1:15,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 131 total,   1 running, 130 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7893.2 total,   6938.0 free,    575.4 used,    631.3 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   7317.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   22876  13952   9476 S   0.0   0.2   0:04.55 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.01 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+----- COMMAND HISTORY -----
+
+=========== END OF REPORT ===========
+
+========================================
+ SYSTEM INFORMATION SCRIPT OUTPUT
+ Generated on: Wed Jan 14 02:57:06 UTC 2026
+========================================
+
+----- DATE -----
+Wed Jan 14 02:57:06 UTC 2026
+
+----- HOSTNAME -----
+DanielIjaoyeCATC
+
+----- ARCHITECTURE -----
+x86_64
+
+----- UNAME (FULL SYSTEM INFO) -----
+Linux DanielIjaoyeCATC 6.14.0-1017-azure #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+
+----- SYSTEM UPTIME -----
+ 02:57:06 up  2:10,  1 user,  load average: 0.02, 0.01, 0.00
+
+----- CURRENT USER -----
+danielijaoye
+
+----- LOGGED-IN USERS (who) -----
+danielijaoye pts/0        2026-01-14 01:03 (217.183.112.112)
+
+----- USER ACTIVITY (w) -----
+ 02:57:06 up  2:10,  1 user,  load average: 0.02, 0.01, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
+danielij          217.183.112.112  01:03    1:20m  0.00s  0.01s sshd: danielijaoye [priv]
+
+----- TOP PROCESSES (top - first 10 lines) -----
+top - 02:57:06 up  2:10,  1 user,  load average: 0.02, 0.01, 0.00
+Tasks: 132 total,   1 running, 131 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7893.2 total,   6914.0 free,    595.8 used,    635.0 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   7297.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   22876  13952   9476 S   0.0   0.2   0:04.67 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.01 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+----- COMMAND HISTORY -----
+
+=========== END OF REPORT ===========
+
+==== DATE ====
+Wed Jan 14 02:57:23 UTC 2026
+
+==== HOSTNAME ====
+DanielIjaoyeCATC
+
+==== SYSTEM INFO ====
+Linux DanielIjaoyeCATC 6.14.0-1017-azure #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+
+==== DATE ====
+Wed Jan 14 02:57:33 UTC 2026
+
+==== HOSTNAME ====
+DanielIjaoyeCATC
+
+==== SYSTEM INFO ====
+Linux DanielIjaoyeCATC 6.14.0-1017-azure #17~24.04.1-Ubuntu SMP Mon Dec  1 20:10:50 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+
+==== VM IP AND LOCATION ====
+{
+  "ip": "20.251.146.212",
+  "city": "Oslo",
+  "region": "Oslo",
+  "country": "NO",
+  "loc": "59.9127,10.7461",
+  "org": "AS8075 Microsoft Corporation",
+  "postal": "0001",
+  "timezone": "Europe/Oslo",
+  "readme": "https://ipinfo.io/missingauth"
+}
