@@ -1,0 +1,72 @@
+# DanielIjaoyeCATCProject
+#!/bin/bash
+
+# Output file
+OUTPUT="danielIjaoye.txt"
+
+# Clear previous output file
+> $OUTPUT
+
+echo "===============================" >> $OUTPUT
+echo "Script Output for Daniel Ijaoye" >> $OUTPUT
+echo "===============================" >> $OUTPUT
+echo "" >> $OUTPUT
+
+# 1. date
+echo ">>> Running date:" >> $OUTPUT
+date >> $OUTPUT
+echo "" >> $OUTPUT
+
+# 2. hostname
+echo ">>> Running hostname:" >> $OUTPUT
+hostname >> $OUTPUT
+echo "" >> $OUTPUT
+
+# 3. arch
+echo ">>> Running arch:" >> $OUTPUT
+arch >> $OUTPUT
+echo "" >> $OUTPUT
+
+# 4. uname -a
+echo ">>> Running uname -a:" >> $OUTPUT
+uname -a >> $OUTPUT
+echo "" >> $OUTPUT
+
+# 5. dmesg (needs sudo)
+echo ">>> Running dmesg (requires sudo):" >> $OUTPUT
+sudo dmesg | head -n 20 >> $OUTPUT  # limit output for readability
+echo "" >> $OUTPUT
+
+# 6. uptime
+echo ">>> Running uptime:" >> $OUTPUT
+uptime >> $OUTPUT
+echo "" >> $OUTPUT
+
+# 7. whoami
+echo ">>> Running whoami:" >> $OUTPUT
+whoami >> $OUTPUT
+echo "" >> $OUTPUT
+
+# 8. who
+echo ">>> Running who:" >> $OUTPUT
+who >> $OUTPUT
+echo "" >> $OUTPUT
+
+# 9. w
+echo ">>> Running w:" >> $OUTPUT
+w >> $OUTPUT
+echo "" >> $OUTPUT
+
+# 10. top (non-interactive snapshot)
+echo ">>> Running top -b -n 1 (non-interactive snapshot):" >> $OUTPUT
+top -b -n 1 | head -n 20 >> $OUTPUT  # limit to first 20 lines
+echo "" >> $OUTPUT
+
+# 11. history
+echo ">>> Running history:" >> $OUTPUT
+history | tail -n 20 >> $OUTPUT  # last 20 commands for brevity
+echo "" >> $OUTPUT
+
+echo "===============================" >> $OUTPUT
+echo "End of script output" >> $OUTPUT
+echo "===============================" >> $OUTPUT
