@@ -1,5 +1,8 @@
 #!/bin/bash
-#
+# Name: Daniel Ijaoye
+# Student Number: G00474106
+# Course: Hdip Object Orientated Software Development
+# Description : This is a script that generates and displays salary scales for a hypothetical employee.
 # Salary Scale
 # Building step by step, using user input, if statements and loops
 #
@@ -55,4 +58,5 @@ done
 
 echo ""
 echo "Salary scale generation complete."
+
 
